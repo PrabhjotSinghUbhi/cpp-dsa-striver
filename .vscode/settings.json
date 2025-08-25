@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "set": "cpp",
+        "initializer_list": "cpp",
+        "vector": "cpp",
+        "xmemory": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "type_traits": "cpp",
+        "xutility": "cpp",
+        "xlocale": "cpp"
+    }
+}
