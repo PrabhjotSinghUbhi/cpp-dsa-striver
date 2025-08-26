@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 using namespace std;
 
 void print()
@@ -8,8 +9,7 @@ void print()
 
 int main()
 {
-    pair<int, pair<int, int>> p = {1, {3, 5}};
-    cout << p.second.first;
+    pair<int, vector<int>> p = {1, {3, 5}};
 
     return 0;
 }
