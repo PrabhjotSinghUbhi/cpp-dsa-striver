@@ -47,5 +47,9 @@
         "xstddef": "cpp",
         "xtr1common": "cpp",
         "forward_list": "cpp"
-    }
+    },
+    "cSpell.words": [
+        "Hoare",
+        "Lomuto"
+    ]
 }

@@ -9,7 +9,7 @@ int main()
     vector<int> v = {1, 2, 3, 4, 5, 6};
     v.emplace_back(3);
 
-    sort(v.begin(), v.end(),greater<int>);
+    sort(v.begin(), v.end(),greater<int>());
 
     for (vector<int>::iterator it = v.begin(); it != v.end(); it += 1)
         cout << *it << " ";
