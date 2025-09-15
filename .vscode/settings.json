@@ -51,5 +51,6 @@
     "cSpell.words": [
         "Hoare",
         "Lomuto"
-    ]
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
 }
