@@ -46,9 +46,11 @@
         "xlocnum": "cpp",
         "xstddef": "cpp",
         "xtr1common": "cpp",
-        "forward_list": "cpp"
+        "forward_list": "cpp",
+        "ratio": "cpp"
     },
     "cSpell.words": [
+        "Automorphic",
         "Hoare",
         "Lomuto"
     ],
