@@ -20,9 +20,10 @@ void print(bool b, int n)
         cout << n << " is not a Automorphic number." << endl;
 }
 
-int main()
+void print(bool b, int n)
 {
-    int num = 7;
-    print(isAutomorphic(num), num);
-    return 0;
+    if (b)
+        cout << n << " is a Automorphic number." << endl;
+    else
+        cout << n << " is not a Automorphic number." << endl;
 }
