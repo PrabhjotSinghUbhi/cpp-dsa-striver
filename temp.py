@@ -1,0 +1,1 @@
+convert string to lowerspace and remove whitespace
